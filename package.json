@@ -2,7 +2,8 @@
   "name": "express_mysql2",
   "version": "1.0.0",
   "description": "EXPRESS_MYSQL2",
-  "main": "index.js",
+  "main": "server.mjs",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
